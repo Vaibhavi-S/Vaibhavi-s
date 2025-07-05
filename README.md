@@ -1,16 +1,92 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Vaibhavi Soni 👋</h1>
 
-<!--
-**Vaibhavi-s/Vaibhavi-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Android & iOS Developer | 🚀 Flutter Enthusiast | 🌱 Full-Stack Web Developer in Progress
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:vaibhavisoni224@gmail.com"><img src="https://img.shields.io/badge/Email-vaibhavisoni224@gmail.com-red?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/vaibhavisoni"><img src="https://img.shields.io/badge/LinkedIn-vaibhavisoni-blue?style=flat-square&logo=linkedin"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👩‍💻 About Me
+
+- 👩‍🎓 **M.Sc. in Information Technology** | 🏢 Based in **Raipur, Chhattisgarh**
+- 🧠 Passionate about building **clean, efficient, user-friendly mobile applications**
+- 📱 2.5+ years of professional experience in **Java & Flutter**, deployed multiple apps on **Play Store & App Store**
+- 🌐 Currently upgrading to full-stack with **Node.js, Express.js, MongoDB, SQL, and modern JS**
+- 🌱 Enrolled in an intensive **Web Development Cohort** covering cloud, backend, and AI integration
+
+---
+
+### 📱 Mobile App Projects (Live & In-House)
+
+#### 🚀 Xeasy (Flutter | Android & iOS)
+> A modern **expense management app** for employees, with real-time receipt uploads, category-wise tracking, and claim status updates  
+📌 Tools: Flutter, Firebase, Git, Android Studio  
+📦 Hosted on: App Store & Play Store  
+
+#### 👨‍💼 BESS - Bangladesh Employee Self Services (Java | Android)
+> Smart HR companion for employees – includes **Punch In/Out, Leave Mgmt, Attendance, Salary View** and more  
+📌 Tools: Java, SQLite, Firebase  
+📦 Hosted on: Play Store  
+
+#### 🌾 AGRI & BSeedPro (Java | Android)
+> Feature-rich tools for **agricultural field operations** and **farmer data management**  
+📌 Tools: Java, SQLite  
+📦 Hosted on: Play Store  
+
+---
+
+### 🛠 Tech Stack
+
+#### 💡 Languages & Frameworks  
+![Java](https://img.shields.io/badge/Java-blue.svg?style=flat&logo=java) 
+![Dart](https://img.shields.io/badge/Dart-blue.svg?logo=dart)
+![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3)
+
+#### ⚙️ Tools & Platforms  
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84.svg?logo=android-studio)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?logo=firebase)
+![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite)
+![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000.svg?logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql)
+
+---
+
+### 📚 Ongoing Learning
+
+- 🌱 Building full-stack projects using the **MERN stack**
+- 💻 Improving API design, database modeling & cloud deployment
+- 📖 Blogging & documenting my journey to help other developers
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Vaibhavi's GitHub Stats" />
+</p>
+
+---
+
+### 📬 Let's Connect!
+
+> Feel free to reach out for collaboration, freelance work, or just tech talk.  
+📧 **vaibhavisoni224@gmail.com**  
+📍 Raipur, Chhattisgarh  
+🔗 [LinkedIn](https://www.linkedin.com/in/vaibhavisoni)
+
+---
+
+🌟 *“Code with purpose, build with passion.”*
+
