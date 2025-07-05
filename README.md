@@ -19,23 +19,23 @@
 ### 🛠 Tech Stack
 
 #### 💡 Languages & Frameworks  
-![Java](https://img.shields.io/badge/Java-blue.svg?style=flat&logo=java) 
-![Dart](https://img.shields.io/badge/Dart-blue.svg?logo=dart)
-![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="32" height="32"/>
 
 #### ⚙️ Tools & Platforms  
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84.svg?logo=android-studio)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?logo=firebase)
-![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite)
-![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github)
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-000000.svg?logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="32" height="32" style="background-color:white;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="32" height="32"/>
 
 ---
 
@@ -47,8 +47,6 @@
 
 ---
 
----
-
 ### 📬 Let's Connect!
 
 > Feel free to reach out for collaboration, freelance work, or just tech talk.  
@@ -57,4 +55,3 @@
 ---
 
 🌟 *“Code with purpose, build with passion.”*
-
