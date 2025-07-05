@@ -4,10 +4,6 @@
   💻 Android & iOS Developer | 🚀 Flutter Enthusiast | 🌱 Full-Stack Web Developer in Progress
 </p>
 
-<p align="center">
-  <a href="mailto:vaibhavisoni224@gmail.com"><img src="https://img.shields.io/badge/Email-vaibhavisoni224@gmail.com-red?style=flat-square&logo=gmail"></a>
-</p>
-
 ---
 
 ### 👩‍💻 About Me
@@ -63,8 +59,6 @@
 
 > Feel free to reach out for collaboration, freelance work, or just tech talk.  
 📧 **vaibhavisoni224@gmail.com**  
-📍 Raipur, Chhattisgarh  
-🔗 [LinkedIn](https://www.linkedin.com/in/vaibhavisoni)
 
 ---
 
