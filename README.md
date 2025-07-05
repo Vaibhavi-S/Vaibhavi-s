@@ -21,25 +21,6 @@
 
 ---
 
-### 📱 Mobile App Projects (Live & In-House)
-
-#### 🚀 Xeasy (Flutter | Android & iOS)
-> A modern **expense management app** for employees, with real-time receipt uploads, category-wise tracking, and claim status updates  
-📌 Tools: Flutter, Firebase, Git, Android Studio  
-📦 Hosted on: App Store & Play Store  
-
-#### 👨‍💼 BESS - Bangladesh Employee Self Services (Java | Android)
-> Smart HR companion for employees – includes **Punch In/Out, Leave Mgmt, Attendance, Salary View** and more  
-📌 Tools: Java, SQLite, Firebase  
-📦 Hosted on: Play Store  
-
-#### 🌾 AGRI & BSeedPro (Java | Android)
-> Feature-rich tools for **agricultural field operations** and **farmer data management**  
-📌 Tools: Java, SQLite  
-📦 Hosted on: Play Store  
-
----
-
 ### 🛠 Tech Stack
 
 #### 💡 Languages & Frameworks  
