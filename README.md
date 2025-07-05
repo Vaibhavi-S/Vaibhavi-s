@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="mailto:vaibhavisoni224@gmail.com"><img src="https://img.shields.io/badge/Email-vaibhavisoni224@gmail.com-red?style=flat-square&logo=gmail"></a>
-  //<a href="https://www.linkedin.com/in/vaibhavisoni"><img src="https://img.shields.io/badge/LinkedIn-vaibhavisoni-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
 ---
