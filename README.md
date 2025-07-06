@@ -51,10 +51,6 @@
 
 ---
 
----### 📬 Let's Connect!
-
----> Feel free to reach out for collaboration, freelance work, or just tech talk.  
----📧 **vaibhavisoni224@gmail.com**  
 
 ---
 
