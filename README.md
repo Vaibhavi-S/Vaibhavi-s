@@ -8,7 +8,7 @@
 
 ### 👩‍💻 About Me
 
-- 👩‍🎓 **M.Sc. in Information Technology** | 🏢 Based in **Raipur, Chhattisgarh**
+- 👩‍🎓 **M.Sc. in Information Technology**
 - 🧠 Passionate about building **clean, efficient, user-friendly mobile applications**
 - 📱 2.5+ years of professional experience in **Java & Flutter**, deployed multiple apps on **Play Store & App Store**
 - 🌐 Currently upgrading to full-stack with **Node.js, Express.js, MongoDB, SQL, and modern JS**
